@@ -13,7 +13,7 @@ parameters:
   parameters:
     ragIntegration:
       type: INTEGRATION_RAG
-      value: null
+      value: 1000001-eantonenko-pdw
       filled-ai: false
     query:
       type: STRING
