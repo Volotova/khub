@@ -4,7 +4,7 @@ name: Rag.generateAnswer
 position:
   x: 753
   y: 143
-next-step: null
+next-step: function_reactions_sendtext_nymbq
 parameters:
   type: SYSTEM
   collection: Rag
