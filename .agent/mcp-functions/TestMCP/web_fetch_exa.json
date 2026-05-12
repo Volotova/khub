@@ -13,7 +13,7 @@
       },
       "maxCharacters" : {
         "type" : "number",
-        "description" : "Maximum characters to extract per page (must be a positive number, default: 3000)",
+        "description" : "Maximum characters to extract per page (default: 3000)",
         "minimum" : 1.0
       }
     },
